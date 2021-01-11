@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# scanning for spaces was kind of a cheat for the previous challenge. Let's do a proper statistical analysis this time.
+
 def single_char_xor(byte_message, value):
     output = b''
 
